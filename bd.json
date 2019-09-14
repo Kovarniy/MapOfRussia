@@ -1,0 +1,33 @@
+{
+  "area": [
+    {"areaId": "KolPol", "link": "img/kolpol.jpg", "areaName": "Мурманская область", "areaSquare": "100 000 км²", "people": "748 056 чел.", "capital": "Мурманск" },
+    {"areaId": "Karelia", "link": "img/Karelia.jpg", "areaName": "Республка Карелия", "areaSquare": "180 520 км²", "people": "618 056 чел.", "capital": "Петрозаводск" },
+    {"areaId": "Arhangelsk", "link": "img/Arkhangelsk.jpg", "areaName": "Архангельская область", "areaSquare": "589 913 км²", "people": "1 144 119 чел.", "capital": "Архангельск" },
+    {"areaId": "Yral", "link": "img/yral.jpg", "areaName": "Уральские горы (Север)", "areaSquare": "781,1 тыс. км²", "people": "N/a", "capital": "Пермь, Екатеринбург" },
+    {"areaId": "NijNovgorod", "link": "img/NijNovgorod.jpg", "areaName": "Нижегородская область", "areaSquare": "76 624 км²", "people": "3 214 623 чел.", "capital": "Нижний Новгород" },
+    {"areaId": "MoscowO", "link": "img/MoscowO.jpg", "areaName": "Московская область", "areaSquare": "44 329 км²", "people": "7 599 647 чел.", "capital": "Красногорск" },
+    {"areaId": "MoscowG", "link": "img/MoscowG.jpg", "areaName": "Москва", "areaSquare": " 2561,5 км²", "people": "12 615 279 человек", "capital": "Москва" },
+    {"areaId": "SeverKavraz1", "link": "img/SeverKavraz.jpg", "areaName": "Северный Кавказ (Юг)", "areaSquare": "258 300 км²", "people": "N/a", "capital": "Цхинвали, Махачкала, Гозный" },
+    {"areaId": "CentralRussia", "link": "img/CentralRussia.jpg", "areaName": "Центральная Россия (Север)", "areaSquare": "N/a", "people": "N/a", "capital": "Ягутия, Ленск, Норильск" },
+    {"areaId": "Primor", "link": "img/Primor.jpg", "areaName": "Приморский край", "areaSquare": "164 673 км²", "people": "1 902 718 чел.", "capital": "Владивосток" },
+    {"areaId": "XabarovskKr", "link": "img/Xabarovsk.jpg", "areaName": "Хабаровский край", "areaSquare": "787 633 км²", "people": "1 321 473 чел.", "capital": "Владивосток" },
+    {"areaId": "AmurObl", "link": "img/AmurObl.jpg", "areaName": "Амурская область", "areaSquare": "361 908 км²", "people": "793 194 чел.", "capital": "Благовещенск" },
+    {"areaId": "IrkObl", "link": "img/IrkObl.jpg", "areaName": "Иркутская область", "areaSquare": "774 846 км²", "people": "2 404 195 чел.", "capital": "Иркутск" },
+    {"areaId": "Zab", "link": "img/Zab.jpg", "areaName": "Забайкальский край", "areaSquare": "774 846 км²", "people": "2 404 195 чел.", "capital": "Чита" },
+    {"areaId": "Byr", "link": "img/Byr.jpg", "areaName": "Республика Бурятия", "areaSquare": "351 334 км² ", "people": "983 273 чел.", "capital": "Улан-Удэ" },
+    {"areaId": "Tiva", "link": "img/Tiva.jpg", "areaName": "Республика Тыва", "areaSquare": "168 604 км²", "people": "324 423 чел.", "capital": "Казыл" },
+    {"areaId": "Altai", "link": "img/Altai1.jpg", "areaName": "Алтайский край, Новосибирская область", "areaSquare": "167 996 км² ", "people": "2 332 813 чел.", "capital": "Барнаул, Новосибирск" },
+    {"areaId": "Kemer", "link": "img/Kemer.jpg", "areaName": "Кемеровская область", "areaSquare": "168 604 км²", "people": "324 423 чел.", "capital": "Кемерово, Новокузнецк" },
+    {"areaId": "Krasnoyarsk1", "link": "img/Krasnoyarsk.jpg", "areaName": "Красноярский край", "areaSquare": "2 366 797 км²", "people": "2 874 026 чел.", "capital": "Красноярск" },
+    {"areaId": "TomskO", "link": "img/TomskO.jpg", "areaName": "Томская область", "areaSquare": "314 391 км²", "people": "1 077 026 чел.", "capital": "Томск" },
+    {"areaId": "ChelO", "link": "img/ChelO.jpg", "areaName": "Челябинская область", "areaSquare": "88 529 км²", "people": "3 475 753 чел.", "capital": "Челябинск" },
+    {"areaId": "ufa", "link": "img/ufa.jpg", "areaName": "Уфимская область", "areaSquare": "69 900 км²", "people": "N/a", "capital": "Уфа" },
+    {"areaId": "SamaraO", "link": "img/SamaraO.jpg", "areaName": "Самарская область", "areaSquare": "53 565 км² ", "people": "3 183 038 чел.", "capital": "Самара" },
+    {"areaId": "SarO", "link": "img/SarO.jpg", "areaName": "Саратовская область", "areaSquare": "53 565 км²", "people": "3 183 038 чел.", "capital": "Саратов" },
+    {"areaId": "VoronejO", "link": "img/VoronejO.jpg", "areaName": "Воронежская область", "areaSquare": "52 216 км²", "people": "2 383 038 чел.", "capital": "Воронеж" },
+    {"areaId": "Yg", "link": "img/Yg.jpg", "areaName": "Юг России", "areaSquare": "N/a", "people": "N/a", "capital": "Краснадар, Астрахань, Ростов-на-Дону и т.д." },
+    {"areaId": "KrimRes", "link": "img/KrimRes.jpg", "areaName": "Республика Крым", "areaSquare": "26 081 км² ", "people": "1 911 818 чел. ", "capital": "Симферополь" },
+    {"areaId": "Smolensk", "link": "img/Smolensk.jpg", "areaName": "Смоленская область", "areaSquare": "49 779 км²", "people": "942 363 чел.", "capital": "Смоленск" }
+
+  ]
+}

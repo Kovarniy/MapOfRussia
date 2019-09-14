@@ -1,0 +1,242 @@
+body{
+    background-color: black;
+}
+#mapBlock1{
+   border: 1px dotted #6CB158;
+   margin: 2px;
+}
+#mapBlock2{
+   border: 2px dotted #6CB158;
+   margin: 2px;
+}
+#mapBlock3{
+    border: 2px solid #6CB158;
+    margin: 2px;
+    border-image: linear-gradient(180deg, #6CB158 38%, #425EA7 65%);
+    border-image-slice: 1;
+    width: 1994px;
+}
+
+#RF{
+    position: absolute;
+    left: 800px;
+    width: 470px;
+    background: black;
+    border-bottom: 1px solid #364950;
+    border-left: 1px solid #364950;
+    border-right: 1px solid #364950;
+}
+#RF > h1{
+    margin: 0 15px 0 15px;
+    text-transform: uppercase;
+    font-family: Arial;
+    background: linear-gradient(45deg, #425EA7, #6CB158);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#cities{
+    font-family: Arial;
+    font-size: 14px;
+    color: white;
+}
+#cities p:hover{
+    color: red;
+}
+
+#Sevastopol{
+    position: absolute;
+    top:    790px;
+    left:   30px;
+}
+#RostovOnDon{
+    position: absolute;
+    top:    843px;
+    left:   133px;
+}
+#Volgograd{
+    position: absolute;
+    top:    860px;
+    left:   223px;
+}
+#Astraxan{
+    position: absolute;
+    top:    930px;
+    left:   218px;
+}
+#Voronej{
+    position: absolute;
+    top:    756px;
+    left:   226px;
+}
+#Saratov{
+    position: absolute;
+    top:    808px;
+    left:   273px;
+}
+#Samara{
+    position: absolute;
+    top:    828px;
+    left:   358px;
+}
+#Moscow{
+    position: absolute;
+    top:    663px;
+    left:   310px;
+}
+#lowNov{
+    position: absolute;
+    top:    710px;
+    left:   375px;
+    text-align: center
+}
+#Smol{
+    position: absolute;
+    top:    610px;
+    left:   240px;
+}
+#Vologda{
+    position: absolute;
+    top:    617px;
+    left:   395px;
+}
+#Belomorsk{
+    position: absolute;
+    top:    488px;
+    left:   445px;
+}
+#Arxangelsk{
+    position: absolute;
+    top:    542px;
+    left:   480px;
+}
+#Myrmansk{
+    position: absolute;
+    top:    390px;
+    left:   520px;
+}
+#Yfa{
+    position: absolute;
+    top:    825px;
+    left:   500px;
+}
+#Perm{
+    position: absolute;
+    top:    775px;
+    left:   550px;
+}
+#Ekb{
+    position: absolute;
+    top:    810px;
+    left:   587px;
+}
+#Chelabinsk{
+    position: absolute;
+    top:    852px;
+    left:   580px;
+}
+#Omsk{
+    position: absolute;
+    top:    933px;
+    left:   740px;
+}
+#Tomsk{
+    position: absolute;
+    top:    905px;
+    left:   855px;
+}
+#Nsv{
+    position: absolute;
+    top:    967px;
+    left:   792px;
+}
+#NewYrengoi{
+    position: absolute;
+    top:    645px;
+    left:   830px;
+    white-space: nowrap;
+}
+#Norilsk{
+    position: absolute;
+    top:    586px;
+    left:   960px;
+}
+#Novokuz{
+    position: absolute;
+    top:    968px;
+    left:   940px;
+}
+#Krasnoyarsk{
+    position: absolute;
+    top:    937px;
+    left:   1003px;
+}
+#Irk{
+    position: absolute;
+    top:    1006px;
+    left:   1132px;
+}
+#YlanYde{
+    position: absolute;
+    top:    1030px;
+    left:   1232px;
+    color: #dfdfdf;
+    white-space: nowrap;
+}
+#Lensk{
+    position: absolute;
+    top:    759px;
+    left:   1227px;
+}
+#Chita{
+    position: absolute;
+    top:    967px;
+    left:   1320px;
+}
+#Yakytsk{
+    position: absolute;
+    top:    657px;
+    left:   1372px;
+}
+#Xabarovsk{
+    position: absolute;
+    top:    900px;
+    left:   1670px;
+}
+#KamOnAmur{
+    position: absolute;
+    top:    855px;
+    left:   1610px;
+    white-space: nowrap;
+}
+#Magadan{
+    position: absolute;
+    top:    560px;
+    left:   1630px;
+}
+#Anadir{
+    position: absolute;
+    top:    223px;
+    left:   1708px;
+}
+#YgSaxalinsk{
+    position: absolute;
+    top:    863px;
+    left:   1770px;
+    white-space: nowrap;
+}
+#infoBlock{
+    margin: 0 105px 0 105px;
+   /* border: 2px solid red;*/
+    max-width: 100%;
+    height: auto;
+    overflow:hidden
+
+}
+.frame{
+    float:left;
+    width: 50%
+}
+.aboutArea > p{
+    margin: 5px 0 5px 0;
+    display: inline-block
+}
