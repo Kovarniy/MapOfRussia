@@ -6,10 +6,21 @@ $(function() {
     $(".Oblastb").click(function(){
         var id = $(this).attr('id');
         thisArea = id;
+
+        /*Данную функцию можно реализовать лучше. Данные отрывающемся ищображении лучше всего получать из json
+        * Также можно добавить анимацию.
+        * */
+        if(thisArea == "KolPol"){
+            $('#openImg').css('visibility','visible');
+        }
+
         /* подгружаем информацию о области при помощи AJAX*/
         $.getJSON('bd.json')
             .done(areaInfo);
+    });
 
+    $(".close").click(function(){
+        $('#openImg').css('visibility','hidden')
     });
 
 });
@@ -30,8 +41,6 @@ function areaInfo(jsonObj) {
     for (i = 0; i < 4; i++){
         $('#areaImg'+i).attr('src', areaImg[0]);
     }
-
-
 
 }
 

@@ -240,3 +240,42 @@ body{
     margin: 5px 0 5px 0;
     display: inline-block
 }
+
+#openImg{
+    border: 2px solid #0b8fea;
+    visibility: hidden;
+    position: absolute;
+    top:    250px;
+    left:   500px;
+}
+
+#openImg img{
+    z-index: 0;
+}
+
+.close {
+    position: relative;
+    z-index: 1;
+    left: 400px;
+    top: 5px;
+    width: 32px;
+    height: 32px;
+    opacity: 0.7;
+}
+.close:hover {
+    opacity: 1;
+}
+.close:before, .close:after {
+    position: absolute;
+    left: 15px;
+    content: ' ';
+    height: 33px;
+    width: 2px;
+    background-color: #0b8fea;
+}
+.close:before {
+    transform: rotate(45deg);
+}
+.close:after {
+    transform: rotate(-45deg);
+}
